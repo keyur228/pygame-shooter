@@ -24,6 +24,6 @@ Please note that this game is currently just a Python file and is not yet execut
 
 For any questions or feedback, please contact me via email.
 
-## GitHub Profile
 
-[My GitHub Profile](https://github.com/your-github-username)
+
+
